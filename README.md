@@ -9,3 +9,10 @@ A DotNet Challange
 * [ ] Nuget for the client library
 * [ ] Continuous delivery?
 * [ ] Docker? yes / no? 
+
+# Notes
+SignalIR
+https://blogs.msdn.microsoft.com/webdev/2017/09/14/announcing-signalr-for-asp-net-core-2-0/
+Latest video
+https://www.youtube.com/watch?v=bExIDwmH7jA
+https://radu-matei.com/blog/signalr-core/
